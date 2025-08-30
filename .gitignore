@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables (DO NOT COMMIT TOKENS)
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: OS / IDE garbage
+.DS_Store
+Thumbs.db
+.vscode/
